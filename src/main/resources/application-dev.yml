@@ -1,0 +1,19 @@
+      spring:
+        jpa:
+          hibernate:
+            ddl-auto: update
+            show-sql: true
+        logging:
+          level:
+            root: info
+            com.kfy2020.blog: debug
+          file:
+            name: log/blog-dev.log
+
+
+
+
+
+
+
+

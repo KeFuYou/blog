@@ -1,0 +1,14 @@
+  spring:
+    jpa:
+      hibernate:
+        ddl-auto: none
+        show-sql: true
+    logging:
+      level:
+        root: warn
+        com.kfy2020.blog: info
+      file:
+        name: log/blog-pro.log
+
+
+

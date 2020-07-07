@@ -1,0 +1,6 @@
+2020-06-23 16:46:15.960  INFO 21608 --- [restartedMain] com.kfy2020.blog.BlogApplication         : Starting BlogApplication on snsv-kfy with PID 21608 (D:\柯富友\博客制作\idea项目\blog\target\classes started by admin in D:\柯富友\博客制作\idea项目\blog)
+2020-06-23 16:46:15.963  INFO 21608 --- [restartedMain] com.kfy2020.blog.BlogApplication         : The following profiles are active: pro
+2020-06-23 16:46:17.839  WARN 21608 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2020-06-23 16:46:18.156  WARN 21608 --- [restartedMain] ion$DefaultTemplateResolverConfiguration : Cannot find template location: classpath:/templates/ (please add some templates or check your Thymeleaf configuration)
+2020-06-23 16:46:18.177  WARN 21608 --- [task-1] com.zaxxer.hikari.util.DriverDataSource  : Registered driver with driverClassName=com.mysql.jdbc.Driver was not found, trying direct instantiation.
+2020-06-23 16:46:18.286  INFO 21608 --- [restartedMain] com.kfy2020.blog.BlogApplication         : Started BlogApplication in 2.816 seconds (JVM running for 4.195)

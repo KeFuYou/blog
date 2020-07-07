@@ -1,0 +1,14 @@
+  spring:
+    thymeleaf:
+      mode: HTML
+    profiles:
+      active: dev
+
+
+
+  comment.avatar: /images/avatar.png
+  comment.avatar2: /images/avatar2.png
+
+
+
+
